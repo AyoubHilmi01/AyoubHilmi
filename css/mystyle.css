@@ -8,11 +8,6 @@ body{
 	background-size:cover;
 	font-family: century Gothic;
 }
-.footer{
-	background: #FFF;
-	height: 5px;
-	width: 100%;
-}
 .header{
 	float: right;
 	text-align: right;
