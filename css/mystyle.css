@@ -46,7 +46,7 @@ ul li a:hover{
 	position: absolute;
 	top: 40%;
 	left:50%;
-	color: white;
+	color: #FFF;
 	font-size: 23px;
 	transform: translate(-50%,-50%);
 }
@@ -63,7 +63,7 @@ ul li a:hover{
 .btn{
 	border:1px solid #FFF;
 	text-decoration: none;
-	color: white;
+	color: #FFF;
 	padding: 10px 30px;
 
 }
